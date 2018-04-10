@@ -1,3 +1,4 @@
+#script for single instance mpv
 #!/bin/bash
 
 pid=$(pidof "mpv")
